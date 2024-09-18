@@ -40,6 +40,7 @@ Gu, J., Zhou, Y., Huang, L., Ou, W., Wu, J., Li, S., Xu, J., Feng, J., & Liu, B.
 Hephzibah Cathryn, R., & George Priya Doss, C. (2023). Comparative molecular dynamics simulation of apo and holo forms of the P53 mutant C176F: A structural perspective. Journal of Taibah University for Science, 18(1). https://doi.org/10.1080/16583655.2023.2297457
 
 Mirgayazova, R., Khadiullina, R., Chasov, V., Mingaleeva, R., Miftakhova, R., Rizvanov, A., & Bulatov, E. (2020). Therapeutic editing of the TP53 gene: Is crispr/CAS9 an option? Genes, 11(6), 1–17. https://doi.org/10.3390/genes11060704
+
 Wiegering, A., Matthes, N., Mühling, B., Koospal, M., Quenzer, A., Peter, S., Germer, C. T., Linnebacher, M., & Otto, C. (2017). Reactivating p53 and inducing tumor apoptosis (RITA) enhances the response of RITA-sensitive colorectal cancer cells to chemotherapeutic agents 5-fluorouracil and oxaliplatin. Neoplasia, 19(4), 301-309. https://doi.org/10.1016/j.neo.2017.01.007 
 
 
